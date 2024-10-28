@@ -1,0 +1,72 @@
+# PlatformIO specific files
+.pio
+.pioenvs
+.piolibdeps
+.piopackages
+.vscode
+
+# General files
+node_modules
+bower_components
+build
+dist
+tmp
+logs
+vendor
+*.log
+*.psd
+*.db
+*.lock
+*.DS_Store
+*.sass-cache
+*.scss-cache
+*.swp
+*.swo
+*.orig
+
+# Editor specific files
+sublime-project
+sublime-workspace
+
+# IDE specific files
+.idea
+.project
+.classpath
+.settings
+.metadata
+.mypy_cache
+.cache
+.env
+.venv
+.tox
+.pytest_cache
+.coverage
+.hypothesis
+.eggs
+.egg-info
+.noseid
+.ipynb_checkpoints
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# C/C++ specific files
+*.o
+*.a
+*.so
+*.so.*
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.map
+*.dSYM
+*.profdata
+*.gcda
+*.gcno
+*.gcov
+*.la
+*.lo
+*.o
+*.elf
